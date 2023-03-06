@@ -1,1 +1,1 @@
-# MyNewsProject
+# MyNews projekts
